@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "prodev-mobile-app-0x03",
+    "slug": "prodev-mobile-app-0x03",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.prodevmobileapp0x03"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.yourcompany.prodevmobileapp0x03"
+    },
+    "web": {
+      "favicon": "./assets/images/logo.png"
+    }
+  }
+}
