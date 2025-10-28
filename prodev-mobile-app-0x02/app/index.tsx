@@ -116,3 +116,4 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
   },
 });
+<Text style={styles.textSmall}>million properties worldwide</Text>"
