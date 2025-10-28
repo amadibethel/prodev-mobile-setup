@@ -8,3 +8,4 @@ Set up the first mobile application using the Expo Router template and understan
    ```bash
    cd prodev-mobile-setup
 
+reset-project
